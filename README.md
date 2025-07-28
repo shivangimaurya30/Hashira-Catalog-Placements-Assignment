@@ -3,7 +3,7 @@
 ## 📄 Files Included
 - `ShamirCatalog.java`: Main Java file containing catalog logic
 - `input1.json`, `input2.json`: Sample JSON inputs
-- `json.jar`: Required external JSON library (not included here)
+
   
 ## 🚀 How to Compile and Run
 
